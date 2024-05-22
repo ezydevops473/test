@@ -7,9 +7,7 @@ trigger:
 - main
 
 pool:
-  #vmImage: ubuntu-latest
-  name: 'test'
-
+  vmImage: ubuntu-latest
 steps:
 - script: echo Hello, world!
   displayName: 'stage1'
