@@ -1,1 +1,1 @@
-# test
+[![Build Status](https://dev.azure.com/ezydevops/ezydevops/_apis/build/status%2Fezydevops473.test?branchName=main)](https://dev.azure.com/ezydevops/ezydevops/_build/latest?definitionId=6&branchName=main)
